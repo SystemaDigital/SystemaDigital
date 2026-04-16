@@ -1,4 +1,4 @@
-# 🧔 Victor | Founder of SYSTEMA 🏆
+# 🧔 Viktor | Founder of SYSTEMA 🏆
 
 ### Professional Tilda Workflow Architect & Digital Engineer
 Helping developers build high-performance, secure, and animated websites at scale.
