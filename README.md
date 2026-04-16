@@ -11,26 +11,34 @@ Helping developers build high-performance, secure, and animated websites at scal
 *   **LLC «SYSTEMA»** — Official software licensing & B2B operations.
 
 ## ⚡ Technical Arsenal
-| Technology | Purpose | Status |
-| :--- | :--- | :--- |
-| 🟡 **JavaScript** | Core Logic & ES6+ | `Production Ready` |
-| 🔴 **Gulp** | Workflow Automation | `Active Engine` |
-| 🟢 **GSAP** | Premium Animations | `High Performance` |
-| 🔵 **Node.js** | Project Runtime | `Stable` |
-| 🔐 **VITTO-GUARD** | Security & Licensing | `Encrypted` |
+
+### 🏗️ Foundation & Workflow
+*   🟠 **HTML5 & CSS3** — `Expert` | Semantic structure & Advanced Styling
+*   🟡 **JavaScript (ES6+)** — `Expert` | Core Logic & System Architecture
+*   🔴 **Gulp** — `Master` | Workflow Automation & VITTO Engine
+*   🔐 **VITTO-GUARD** — `Proprietary` | Security & Licensing System
+
+### ⚛️ Modern Frontend Stack
+*   🔵 **React JS** — `Advanced` | Dynamic UI & State Management
+*   ⚫ **Next.js** — `Advanced` | SSR, Static Generation & SEO
+*   🟣 **Gatsby JS** — `Master` | Blazing Fast Static Site Generation
+*   ☁️ **Sanity.io** — `Master` | Headless CMS & Structured Content
+*   🌊 **Tailwind CSS** — `Master` | Modern Utility-First Styling
+*   🟢 **GSAP** — `Master` | High-End Web Animations
 
 ---
 
-## 📊 Activity Status
-*   🔭 I’m currently working on **VITTO CODE v1.2**
-*   🌱 I’m mastering **Advanced Web Security & Obfuscation**
-*   💬 Ask me about **Tilda automation & GSAP animations**
-
+## 📊 Status & Experience
+*   🔭 **Developing:** [VITTO CODE](https://vittocode.ru) Ecosystem for Tilda Pro's
+*   🚀 **Studio:** [SYSTEMA DIGITAL](https://systemadigital.ru)
+*   🌱 **Current Learning:** Advanced Backend Integration with Next.js
 ---
 
-### 📫 Connect with me:
-[![Telegram](https://shields.io)](https://t.me)
-[![Website](https://shields.io)](https://vittocode.ru)
+## 📫 Connect with me
+
+*   ✈️ **Telegram:** [@SystemaDigital](https://t.me/systemadigital) — *Technical support & Business inquiries*
+*   🌐 **Official Website:** [vittocode.ru](https://vittocode.ru) — *Product info & Documentation*
+*   📧 **Email:** [viktor@systemadigital.ru](mailto:viktor@systemadigital.ru) — *Direct contact*
 
 ---
 *Created with passion for clean code and legacy.*
