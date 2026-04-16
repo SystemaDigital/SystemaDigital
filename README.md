@@ -11,10 +11,11 @@ Helping developers build high-performance, secure, and animated websites at scal
 *   **LLC «SYSTEMA»** — Official software licensing & B2B operations.
 
 ## ⚡ Technical Arsenal
-![JavaScript](https://shields.io)
-![Gulp](https://shields.io)
-![GSAP](https://shields.io)
-![Node.js](https://shields.io)
+![JavaScript](https://badgen.net)
+![Gulp](https://badgen.net)
+![GSAP](https://badgen.net)
+![Node.js](https://badgen.net)
+![Status](https://badgen.net)
 
 ---
 
