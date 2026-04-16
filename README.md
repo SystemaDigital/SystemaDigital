@@ -11,11 +11,13 @@ Helping developers build high-performance, secure, and animated websites at scal
 *   **LLC «SYSTEMA»** — Official software licensing & B2B operations.
 
 ## ⚡ Technical Arsenal
-![JavaScript](https://badgen.net)
-![Gulp](https://badgen.net)
-![GSAP](https://badgen.net)
-![Node.js](https://badgen.net)
-![Status](https://badgen.net)
+| Technology | Purpose | Status |
+| :--- | :--- | :--- |
+| 🟡 **JavaScript** | Core Logic & ES6+ | `Production Ready` |
+| 🔴 **Gulp** | Workflow Automation | `Active Engine` |
+| 🟢 **GSAP** | Premium Animations | `High Performance` |
+| 🔵 **Node.js** | Project Runtime | `Stable` |
+| 🔐 **VITTO-GUARD** | Security & Licensing | `Encrypted` |
 
 ---
 
