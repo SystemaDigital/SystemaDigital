@@ -8,7 +8,7 @@ Helping developers build high-performance, secure, and animated websites at scal
 ## 🛠 My Ecosystem
 *   **[VITTO CODE](https://vittocode.ru)** — Advanced workflow environment for Tilda developers.
 *   **[SYSTEMA DIGITAL](https://systemadigital.ru)** — High-end web development studio.
-*   **ООО «СИСТЕМА»** — Official software licensing & B2B operations.
+*   **LLC «SYSTEMA»** — Official software licensing & B2B operations.
 
 ## ⚡ Technical Arsenal
 ![JavaScript](https://shields.io)
