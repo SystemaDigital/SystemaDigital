@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🧔 Victor | Founder of SYSTEMA 🏆
 
-<!--
-**SystemaDigital/SystemaDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professional Tilda Workflow Architect & Digital Engineer
+Helping developers build high-performance, secure, and animated websites at scale.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My Ecosystem
+*   **[VITTO CODE](https://vittocode.ru)** — Advanced workflow environment for Tilda developers.
+*   **[SYSTEMA DIGITAL](https://systemadigital.ru)** — High-end web development studio.
+*   **ООО «СИСТЕМА»** — Official software licensing & B2B operations.
+
+## ⚡ Technical Arsenal
+![JavaScript](https://shields.io)
+![Gulp](https://shields.io)
+![GSAP](https://shields.io)
+![Node.js](https://shields.io)
+
+---
+
+## 📊 Activity Status
+*   🔭 I’m currently working on **VITTO CODE v1.2**
+*   🌱 I’m mastering **Advanced Web Security & Obfuscation**
+*   💬 Ask me about **Tilda automation & GSAP animations**
+
+---
+
+### 📫 Connect with me:
+[![Telegram](https://shields.io)](https://t.me)
+[![Website](https://shields.io)](https://vittocode.ru)
+
+---
+*Created with passion for clean code and legacy.*
